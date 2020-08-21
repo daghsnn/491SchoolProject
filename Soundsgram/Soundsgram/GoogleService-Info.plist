@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>966986933766-logt6vusdqn1tajqdooonvats60ke902.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.966986933766-logt6vusdqn1tajqdooonvats60ke902</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDodOdTDhqvdgpnI_d-6SQo_xqKY8Ud320</string>
+	<key>GCM_SENDER_ID</key>
+	<string>966986933766</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hasandag.Soundsgram</string>
+	<key>PROJECT_ID</key>
+	<string>soundsgram-d99b4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>soundsgram-d99b4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:966986933766:ios:673cf2813fe185273dc587</string>
+	<key>DATABASE_URL</key>
+	<string>https://soundsgram-d99b4.firebaseio.com</string>
+</dict>
+</plist>
